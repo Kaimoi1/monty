@@ -1,9 +1,9 @@
 #include "monty.h"
-/*
- * auther: Kaimoi
- * m_pall- prints all the values on the 'stack' starting from the top of the stack
+
+/**
+ * m_pall - print all values on `stack' starting from the top
  * @stack: double pointer to head of stack
- * @ine_number: line number being executed from script file
+ * @line_number: line number being executed from script file
  *
  * Return: void
  */
